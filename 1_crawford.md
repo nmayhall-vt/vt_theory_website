@@ -11,8 +11,7 @@ github_url: eh
 slack_url: eh
 linkedin_url: eh
 googlescholar_url: https://scholar.google.com/citations?user=Hs_TvWMAAAAJ&hl=en
+link_url: http://www.crawford.chem.vt.edu
 ---
 
 Our research group focuses on the development of state-of-the-art quantum chemical models, particularly many-body methods such as perturbation theory and coupled cluster theory for accurate simulations of chiroptical properties. We are among the principal developers of PSI4, ab-initio quantum chemistry software.
-
-Visit our website to learn more: [www.crawford.chem.vt.edu](http://www.crawford.chem.vt.edu/)

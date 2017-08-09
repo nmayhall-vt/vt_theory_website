@@ -4,10 +4,20 @@ title: The Valeev Group
 description: null  
 image: assets/images/valeev_group_2015.jpg
 nav-menu: true
+slack_url: eh
+github_url: https://github.com/ValeevGroup
+link_url: http://www.valeevgroup.chem.vt.edu/
+email: evaleev@vt.edu
+phone: 540-231-8218
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+## Research Interests:
+Chemical theory is routinely used to interpret experimental results and guide designs of new experiments. Truly predictive theoretical methods which can replace some or most experiments are nevertheless still elusive. The goal of our research is to develop quantum mechanical methods which can predict, rather than explain, properties of molecules and materials. This objective can only be achieved by advancing molecular structure theory in accord with modern numerical methods and computer resources. Some of the ongoing efforts include:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+* Development of explicitly correlated quantum mechanical methods which describe molecular structures and properties more accurately and at a lower cost than the standard methods.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+* Exploration of non-Born-Oppenheimer methods which take into account the quantum mechanical nature of atomic nuclei. Such methods can be used to explain the fine details of molecular spectra or describe tunneling of proton in enzymatic reactions.
+
+* Description of charge transfer processes in organic electronic materials and devices.
+
+* Development of advanced software for computation of electronic structure, including massively scalable explicitly correlated code and a compiler for electronic structure integrals.
