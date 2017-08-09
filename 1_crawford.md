@@ -4,10 +4,15 @@ title: The Crawford Group
 description: Electron correlation and molecular properties 
 image: assets/images/crawford_group_2017.jpg
 nav-menu: true
+phone: 540-231-7760 
+email: crawdad@vt.edu 
+url: http://www.crawford.chem.vt.edu/
+github_url: eh
+slack_url: eh
+linkedin_url: eh
+googlescholar_url: https://scholar.google.com/citations?user=Hs_TvWMAAAAJ&hl=en
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Our research group focuses on the development of state-of-the-art quantum chemical models, particularly many-body methods such as perturbation theory and coupled cluster theory for accurate simulations of chiroptical properties. We are among the principal developers of PSI4, ab-initio quantum chemistry software.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Visit our website to learn more: [www.crawford.chem.vt.edu](http://www.crawford.chem.vt.edu/)
