@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Aliquam
-description: Ipsum dolor sit amet
-image: assets/images/pic01.jpg
+title: The Crawford Group
+description: Electron correlation and molecular properties 
+image: assets/images/crawford_group_2017.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

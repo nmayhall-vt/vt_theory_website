@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: The Mayhall Group  
+description: Strong correlation and excited states 
+image: assets/images/mayhall_group_2016.jpg
 nav-menu: true
 ---
 

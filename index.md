@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
+landing-title: Theoretical Chemistry  at Virginia Tech
+description: null 
+image: assets/images/br_logo.jpg 
 author: null
 ---
 
