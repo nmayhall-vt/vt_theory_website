@@ -5,7 +5,8 @@ description: null
 image: assets/images/troya_group_2015.jpg
 nav-menu: true
 email: troya@vt.edu
-link_url: http://www.troya.chem.vt.edu/ 
+#link_url: http://www.troya.chem.vt.edu/ 
+link_url: https://troyagroup.wordpress.com/ 
 phone: 540-231-1381 
 ---
 
