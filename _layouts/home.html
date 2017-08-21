@@ -19,12 +19,15 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-		<!--
+                <!--
+		<p style="text-transform: uppercase;">{{ page.description }}</p>
 		-->
+                <p>{{ page.description }}</p>
+		<!--
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>
+		-->
             </div>
         </div>
     </section>
@@ -39,17 +42,11 @@
         <section id="two">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h1>Links and Resources</h1>
                 </header>
                 <p>{{ content }}</p>
-		<!--
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
-		-->
             </div>
         </section>
-
     </div>
 
     {% include footer.html %}

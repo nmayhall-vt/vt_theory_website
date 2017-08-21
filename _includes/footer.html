@@ -1,8 +1,9 @@
 <!-- Contact -->
 <section id="contact">
 	<div class="inner">
-		<!--<section class="split"> -->
-		<section>
+		<section class="split">
+			<!--<section class="split"> -->
+			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
@@ -17,81 +18,81 @@
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
 					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
+						{% if site.street_address %}
+						{{ site.street_address }}<br />
+						{% endif %}
+						{% if site.city %}
+						{{ site.city }},
+						{% endif %}
+						{% if site.state %}
+						{{ site.state }} 
+						{% endif %}
+						{% if site.zip_code %}
+						{{ site.zip_code }}<br />
+						{% endif %}
+						{% if site.country %}
+						{{ site.country }}
+						{% endif %}
 					</span>
 				</div>
-		</section>
+			</section>
 	</div>
-</section>
+			</section>
 
-<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% if page.twitter_url %}
-				<li><a href="{{ page.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if page.googleplus_url %}
-				<li><a href="{{ page.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-				{% endif %}
-				{% if page.facebook_url %}
-				<li><a href="{{ page.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if page.instagram_url %}
-				<li><a href="{{ page.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if page.pinterest_url %}
-				<li><a href="{{ page.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if page.500px_url %}
-				<li><a href="{{ page.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
-				{% endif %}
-				{% if page.gitlab_url %}
-				<li><a href="{{ page.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
-				{% endif %}
-				{% if page.github_url %}
-				<li><a href="{{ page.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				{% if page.slack_url %}
-				<li><a href="{{ page.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
-				{% endif %}
-				{% if page.linkedin_url %}
-				<li><a href="{{ page.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
-				{% if page.googlescholar_url %}
-				<li><a href="{{ page.googlescholar_url }}" class="icon alt fa-google" target="_blank"><span class="label">Google Scholar</span></a></li>
-				{% endif %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+			<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						{% if page.twitter_url %}
+						<li><a href="{{ page.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+						{% endif %}
+						{% if page.googleplus_url %}
+						<li><a href="{{ page.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+						{% endif %}
+						{% if page.facebook_url %}
+						<li><a href="{{ page.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+						{% endif %}
+						{% if page.instagram_url %}
+						<li><a href="{{ page.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+						{% endif %}
+						{% if page.pinterest_url %}
+						<li><a href="{{ page.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+						{% endif %}
+						{% if page.500px_url %}
+						<li><a href="{{ page.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+						{% endif %}
+						{% if page.gitlab_url %}
+						<li><a href="{{ page.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+						{% endif %}
+						{% if page.github_url %}
+						<li><a href="{{ page.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+						{% endif %}
+						{% if page.slack_url %}
+						<li><a href="{{ page.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+						{% endif %}
+						{% if page.linkedin_url %}
+						<li><a href="{{ page.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+						{% endif %}
+						{% if page.googlescholar_url %}
+						<li><a href="{{ page.googlescholar_url }}" class="icon alt fa-google" target="_blank"><span class="label">Google Scholar</span></a></li>
+						{% endif %}
+					</ul>
+					<ul class="copyright">
+						<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+						<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+						<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
-			</ul>
-		</div>
-	</footer>
+					</ul>
+				</div>
+			</footer>
 
-</div>
+			</div>
 
-<!-- Scripts -->
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+			<!-- Scripts -->
+			<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+			<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+			<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+			<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+			<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+			<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+			<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
