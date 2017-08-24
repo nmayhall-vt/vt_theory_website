@@ -18,20 +18,20 @@
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
 					<span>
-						{% if site.street_address %}
-						{{ site.street_address }}<br />
+						{% if page.street_address %}
+						{{ page.street_address }}<br />
 						{% endif %}
-						{% if site.city %}
-						{{ site.city }},
+						{% if page.city %}
+						{{ page.city }},
 						{% endif %}
-						{% if site.state %}
-						{{ site.state }} 
+						{% if page.state %}
+						{{ page.state }} 
 						{% endif %}
-						{% if site.zip_code %}
-						{{ site.zip_code }}<br />
+						{% if page.zip_code %}
+						{{ page.zip_code }}<br />
 						{% endif %}
-						{% if site.country %}
-						{{ site.country }}
+						{% if page.country %}
+						{{ page.country }}
 						{% endif %}
 					</span>
 				</div>

@@ -9,6 +9,10 @@ github_url: https://github.com/ValeevGroup
 link_url: http://www.valeevgroup.chem.vt.edu/
 email: evaleev@vt.edu
 phone: 540-231-8218
+street_address: 900 West Campus Drive
+city: Blacksburg 
+state: VA
+zip_code: 24061
 ---
 
 ## Research Interests:
@@ -21,3 +25,7 @@ Chemical theory is routinely used to interpret experimental results and guide de
 * Description of charge transfer processes in organic electronic materials and devices.
 
 * Development of advanced software for computation of electronic structure, including massively scalable explicitly correlated code and a compiler for electronic structure integrals.
+
+<div>		
+<p>Visit our group website to learn more:  <a href="{{ page.link_url }}"> {{ page.title }}</a></p>
+</div>		
