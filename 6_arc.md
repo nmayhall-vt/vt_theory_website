@@ -3,7 +3,7 @@ layout: post
 title: Advanced Research Computing  
 description: null 
 image: assets/images/br_logo.jpg 
-nav-menu: true
+nav-menu: false 
 link_url: https://secure.hosting.vt.edu/www.arc.vt.edu/
 street_address: 3050 Torgersen Hall
 city: Blacksburg 

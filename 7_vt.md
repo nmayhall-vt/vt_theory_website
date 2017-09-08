@@ -3,7 +3,7 @@ layout: post
 title: Virginia Tech Chemistry  
 description: null 
 image: assets/images/davidson_hall.jpg 
-nav-menu: true
+nav-menu: false 
 link_url: http://www.chem.vt.edu/
 email: clund5@vt.edu
 phone: 540-231-5391
