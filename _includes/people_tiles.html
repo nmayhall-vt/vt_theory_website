@@ -1,0 +1,75 @@
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Faculty</h2>
+		</header>
+	</div>
+</section>
+<section id="one" class="tiles2">
+
+	{% for page in site.pages limit:100 %}
+	{% if page.tags contains 'faculty' %}
+	<article>
+		<span class="image">
+			<img src="{{ page.image }}" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="{{ page.url | relative_url }}" class="link">{{ page.title }}</a></h3> 
+			<p>{{ page.description }}</p>
+		</header>
+	</article>
+	{% endif %}
+	{% endfor %}
+</section>
+
+
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Postdocs</h2>
+		</header>
+	</div>
+</section>
+<section id="one" class="tiles2">
+
+	{% for page in site.pages limit:100 %}
+	{% if page.tags contains 'postdoc' %}
+	<article>
+		<span class="image">
+			<img src="{{ page.image }}" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="{{ page.url | relative_url }}" class="link">{{ page.title }}</a></h3> 
+			<p>{{ page.description }}</p>
+			<p>{{ page.author }}</p>
+		</header>
+	</article>
+	{% endif %}
+	{% endfor %}
+</section>
+
+
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Students</h2>
+		</header>
+	</div>
+</section>
+<section id="one" class="tiles2">
+
+	{% for page in site.pages limit:100 %}
+	{% if page.tags contains 'grad_student' %}
+	<article>
+		<span class="image">
+			<img src="{{ page.image }}" alt="" />
+		</span>
+		<header class="major">
+			<h3><a href="{{ page.url | relative_url }}" class="link">{{ page.title }}</a></h3> 
+			<p>{{ page.description }}</p>
+			<p>{{ page.author }}</p>
+		</header>
+	</article>
+	{% endif %}
+	{% endfor %}
+</section>
