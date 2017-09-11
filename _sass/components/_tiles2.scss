@@ -4,7 +4,7 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
-/* tiles2 */
+/* Tiles2 */
 
 	.tiles2 {
 		@include vendor('display', 'flex');
@@ -42,11 +42,11 @@
 
 			header {
 				position: relative;
-				z-index: 2;
+				z-index: 3;
 			}
 
 			h3 {
-				font-size: 1.0em;
+				font-size: 1.2em;
 
 				a {
 					&:hover {
@@ -72,10 +72,10 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.5;
+				opacity: 0.8;
 				position: absolute;
 				width: 100%;
-				z-index: 4;
+				z-index: 2;
 			}
 
 			&:after {
