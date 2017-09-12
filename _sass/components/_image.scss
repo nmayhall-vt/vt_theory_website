@@ -49,6 +49,18 @@ img {
 				width: 100%;
 			}
 		}
+		&.people_page {
+			float: center;
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 0%;
+			margin-left: auto;
+			margin-right: auto; 
+
+			img {
+				width: 100%;
+			}
+		}
 
 		&.main {
 			display: block;
