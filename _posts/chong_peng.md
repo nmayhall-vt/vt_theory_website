@@ -10,7 +10,6 @@ github_url : https://github.com/pchong90
 googlescholar_url: 
 linkedin_url : 
 email: pchong90@vt.edu
-phone: 540-553-5907
 ---
 - Graduate Student (2012-current), Valeev Research Group, Virginia Tech
 - BS (2008-2012), Southwest University, Chongqing, China.
