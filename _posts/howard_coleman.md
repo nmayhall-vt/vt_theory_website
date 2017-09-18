@@ -2,7 +2,7 @@
 layout: post 
 tags: ['person','postdoc']
 title: Coleman Howard 
-description: Postdoc 
+description: Postdoctoral Associate
 author: Crawford Group 
 image: assets/images/people/howard_coleman.jpg
 nav-menu: false 
