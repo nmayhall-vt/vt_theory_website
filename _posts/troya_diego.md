@@ -6,7 +6,7 @@ description: Associate Professor
 image: assets/images/people/troya_diego.jpg
 nav-menu: false 
 slack_url: eh
-email: 
-phone: 
+email: troya@vt.edu
+phone: 540-231-1381
 ---
 

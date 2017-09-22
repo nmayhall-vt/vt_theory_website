@@ -5,8 +5,7 @@ title: Daniel Crawford
 description: Ethyl Corporation Chaired Professor  
 image: assets/images/people/crawford_daniel.jpg
 nav-menu: false 
-slack_url: eh
-email: nmayhall@vt.edu
-phone: 540-231-3298
+email: crawdad@vt.edu 
+phone: 540-231-7760
 ---
 
