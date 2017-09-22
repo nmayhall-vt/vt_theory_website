@@ -7,6 +7,6 @@ image: assets/images/people/valeev_ed.jpg
 nav-menu: false 
 slack_url: eh
 email: valeev76@vt.edu
-phone: 
+phone: 540-231-8218 
 ---
 
