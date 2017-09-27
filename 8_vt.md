@@ -5,7 +5,7 @@ description: null
 image: assets/images/davidson_hall.jpg 
 nav-menu: false 
 link_url: http://www.chem.vt.edu/
-email: clund5@vt.edu
+email: chemdept@vt.edu
 phone: 540-231-5391
 street_address: 900 West Campus Drive
 city: Blacksburg 
