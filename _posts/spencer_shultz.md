@@ -1,10 +1,10 @@
 ---
 layout: post 
 tags: ['person','grad_student']
-title: Spencer Shultz 
+title: Spencer Schultz 
 description: Graduate Student 
 author: Troya Group 
-image: assets/images/people/spencer_shultz.jpg
+image: assets/images/people/spencer_schultz.jpg
 nav-menu: false 
 email: spschult@vt.edu
 linkedin_url: https://www.linkedin.com/in/spencer-schultz-4294686a/ 
