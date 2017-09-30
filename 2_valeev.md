@@ -2,12 +2,11 @@
 layout: post
 title: The Valeev Group  
 description: null  
-image: assets/images/valeev_group_2015.jpg
+image: assets/images/valeevgroup_2017_fall.jpg
 nav-menu: true
 slack_url: eh
 github_url: https://github.com/ValeevGroup
-link_url: http://www.chem.vt.edu/general.php?page=evaleev 
-#link_url: http://www.valeevgroup.chem.vt.edu/
+link_url: https://valeevgroup.github.io/
 email: evaleev@vt.edu
 phone: 540-231-8218
 street_address: 900 West Campus Drive
