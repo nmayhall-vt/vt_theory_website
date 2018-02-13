@@ -10,8 +10,12 @@ slack_url: eh
 email: vibin1@vt.edu
 ---
 
-# Cool project 1
-Some research stuff
+## Current Projects
 
-# Cool project 2
-Some research stuff
+**A Size Extensive n-body Tucker method**
+
+- Currently working on improving the [n-body Tucker](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00696) ansantz using perturbative corrections.
+
+**Predicting the Multi-Exciton stability using Simple Spin Hamiltonians**
+
+- Used the Ovchinnikov Rule for ground state multiplicity of molecules to predict boundness of covalentlyi-linked singlet fission dimers.([link](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b02476))
