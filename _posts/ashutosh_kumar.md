@@ -1,10 +1,10 @@
 ---
 layout: post
 nav-menu: false
-tags: ['person','grad_student']
+tags: ['person','postdoc']
 title: Ashutosh Kumar 
-author: Crawford Group
-description: Graduate Student
+author: Valeev Group
+description: Postdoc
 image: assets/images/people/ashutosh_kumar.jpg
 github_url: 
 linkedin_url: 
