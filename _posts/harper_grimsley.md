@@ -5,7 +5,7 @@ title: Harper Grimsley
 description: Graduate Student 
 author: Mayhall Group 
 nav-menu: false 
-slack_url: hrgrimsl 
+github_url: https://github.com/hrgrimsl 
 email: hrgrimsl@vt.edu
 ---
 
