@@ -5,6 +5,7 @@ title: Sam Slattery
 description: Graduate Student 
 author: Valeev Group 
 nav-menu: false 
+image: assets/images/people/sam_slattery.jpg
 email: samwise@vt.edu
 ---
 - Graduate Student (2018-current), Valeev Research Group, Virginia Tech
