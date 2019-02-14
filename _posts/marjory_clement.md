@@ -8,7 +8,6 @@ description: Graduate Student
 image: assets/images/people/marjory_clement.jpg
 github_url : https://github.com/mclement1
 email: mcclem@vt.edu
-phone: 443-983-3308
 ---
 - Graduate Student (2016-current), Valeev Research Group, Virginia Tech
 - BS (2012-2016), Belhaven University, Jackson, MS
