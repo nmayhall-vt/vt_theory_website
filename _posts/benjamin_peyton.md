@@ -9,7 +9,7 @@ image: assets/images/people/benjamin_peyton.jpg
 github_url: https://github.com/bgpeyton
 linkedin_url: https://www.linkedin.com/in/benjamin-peyton-27a9a6101/
 email: bgpeyton@vt.edu 
-street_address: Department of Chemistry (0212) Davidson Hall Room 480 1040 Drillfield Drive
+street_address: Department of Chemistry (0212)<br>Davidson Hall Room 480<br>1040 Drillfield Drive
 city: Blacksburg
 State: VA
 phone: 901-240-0487
