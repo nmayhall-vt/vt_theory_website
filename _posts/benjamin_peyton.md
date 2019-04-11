@@ -12,7 +12,6 @@ email: bgpeyton@vt.edu
 street_address: Department of Chemistry (0212)<br>Davidson Hall Room 480<br>1040 Drillfield Drive
 city: Blacksburg
 State: VA
-phone: 901-240-0487
 zip_code: 24061
 ---
 
