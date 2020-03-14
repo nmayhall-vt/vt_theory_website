@@ -11,3 +11,13 @@ email:Email: oimeitei@vt.edu
 phone: 
 ---
 
+## Research Interests
+- Spin properties of Magnetic Molecules
+- Quantum Computing algorithms for molecular simulation
+
+## Selected Publications
+- [Spin-Orbit Matrix Elements for a Combined Spin-Flip and IP/EA Approach](https://doi.org/10.26434/chemrxiv.11743788.v1)
+
+## Education
+- PhD: University of Erlangen-Nuremberg (Advisor: Andreas Hesselmann)
+- BS: University of Madras
