@@ -9,11 +9,14 @@
 					<h3>Email</h3>
 					<a href="#">{{ page.email }}</a>
 				</div>
+				{% if page.phone %}
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<span>{{ page.phone }}</span>
 				</div>
+				{% endif %}
+				{% if page.address %}
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
@@ -35,6 +38,7 @@
 						{% endif %}
 					</span>
 				</div>
+				{% endif %}
 			</section>
 	</div>
 			</section>
