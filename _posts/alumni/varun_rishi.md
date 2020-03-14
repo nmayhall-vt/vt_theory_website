@@ -1,7 +1,7 @@
 ---
 layout: post 
 nav-menu: false 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Varun Rishi 
 author: Valeev Group 
 description: Postdoctoral Associate
@@ -30,3 +30,4 @@ excited states with equation-of-motion linear coupled cluster theory”. J. Chem
 through the lens of single reference coupled-cluster and the equation-of-motion coupled-cluster
 methods”. Theor. Chem. Acc. 133, 1515 (2014)
 
+- Current Location: Postdoc in Miller group at Caltech

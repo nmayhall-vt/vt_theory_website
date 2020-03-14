@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title:  Roberto Di Remigio 
 description: Postdoctoral Associate
 author: Crawford Group 
@@ -10,4 +10,4 @@ slack_url: eh
 email: drobe88@vt.edu 
 phone: 
 ---
-
+Current Location: Hylleraas Centre for Quantum Molecular Sciences

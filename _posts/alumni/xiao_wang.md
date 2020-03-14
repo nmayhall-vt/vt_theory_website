@@ -1,7 +1,7 @@
 ---
 layout: post
 nav-menu: false
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Xiao Wang
 author: Valeev Group
 description: Postdoctoral Associate
@@ -22,3 +22,6 @@ phone:
 
 - Publications:
   [Xiao Wang Google Scholar](https://scholar.google.com/citations?user=ayd7QkkAAAAJ&hl=en)
+
+- Current Location: Flatiron Research Fellow, CCQ, Flatiron Institute
+
