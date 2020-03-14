@@ -7,8 +7,9 @@ author: Valeev Group
 description: Graduate Student
 image: assets/images/people/drew_lewis.jpg
 email: drew90@vt.edu
+location: Sandia National Laboratories
 ---
-- Graduate Student (2012-current), Valeev Research Group, Virginia Tech
+- Graduate Student, Valeev Research Group, Virginia Tech
 
 
 - Research Interest:
