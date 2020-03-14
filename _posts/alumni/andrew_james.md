@@ -9,6 +9,7 @@ image: assets/images/people/andrew_james.jpg
 github_url: 
 linkedin_url: 
 email:  
+location: 
+
 ---
 
-Current Location: 

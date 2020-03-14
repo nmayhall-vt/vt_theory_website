@@ -9,5 +9,5 @@ nav-menu: false
 slack_url: eh
 email: drobe88@vt.edu 
 phone: 
+location:  Hylleraas Centre for Quantum Molecular Sciences
 ---
-Current Location: Hylleraas Centre for Quantum Molecular Sciences

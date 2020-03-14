@@ -9,6 +9,7 @@ image: assets/images/people/varun_rishi.jpg
 github_url : https://github.com/varunrishi
 googlescholar_url: https://scholar.google.com/citations?user=nGopRpIAAAAJ&hl=en
 email: vrishi@vt.edu
+location: Caltech
 ---
 - Postdoctoral Associate (2017-current), Virginia Tech, Supervisor: Prof. Ed Valeev
 - PhD (2011 -2017), University Of Florida, Gainesville, Fl. Supervisor: Prof. Rodney J. Bartlett 

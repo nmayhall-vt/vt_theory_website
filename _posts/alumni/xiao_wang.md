@@ -10,6 +10,7 @@ github_url : https://github.com/xwang862
 googlescholar_url: https://scholar.google.com/citations?user=ayd7QkkAAAAJ&hl=en
 email: xwang89@vt.edu
 phone:
+location: Flatiron Research Fellow, CCQ, Flatiron Institute
 ---
 - Postdoctoral associate in Valeev Research Group (2016-current)
 - PhD (2012-2016), University of Georgia, Athens, GA. Supervisor: Prof. Henry F. Schaefer III
