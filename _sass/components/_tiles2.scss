@@ -24,7 +24,7 @@
 				'filter 1s ease',
 				'-webkit-filter 1s ease'
 			));
-			@include padding(4em, 4em);
+			@include padding(0em, 1em);
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -45,8 +45,9 @@
 				z-index: 3;
 			}
 
+
 			h3 {
-				font-size: 1.2em;
+				font-size: 1.1em;
 
 				a {
 					&:hover {
