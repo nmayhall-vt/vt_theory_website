@@ -18,7 +18,7 @@ zip_code: 24061
 ---
 
 ## Research Interests:
-Critical problems in all areas of chemistry benefit from a microscopic understanding of structure and mechanism. Computational chemistry provides an exceptionally detail-rich glance into the inner workings of molecular events. Our research activities focus primarily on the development of novel quantum chemistry methods and the application of these methods to investigate the chemical foundations of renewable energy sources.
+Critical problems in all areas of chemistry benefit from a microscopic understanding of structure and mechanism. Computational chemistry provides an exceptionally detail-rich glance into the inner workings of molecular events. Our research activities focus primarily on the development of novel quantum chemistry methods and the application of these methods to investigate the chemical foundations of renewable energy sources and quantum technologies.
 
 
 <div>		
