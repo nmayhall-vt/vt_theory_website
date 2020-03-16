@@ -10,6 +10,11 @@ slack_url:
 email:
 phone: 
 ---
+## Research Interests
+Monsurat is currently working on the mechanisms of dynamic allostery in enzymes adapted to cold environments.
+
+## Education
+
 - Monsurat Lawal graduated from University of KwaZulu-Natal, South Africa in 2016 and 2019 with Masters and PhD degrees, respectively, in Pharmaceutical chemistry (computational and theoretical option) under the supervision of Prof. Hendrik G. Kruger and Dr. Bahareh Honarparvar.
 
 - She obtained her first degree in Biochemistry at Ekiti State University, Nigeria in 2012.

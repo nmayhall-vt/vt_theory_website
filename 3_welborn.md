@@ -17,14 +17,18 @@ state: VA
 zip_code: 24061
 ---
 
-## Research Interests:
-### Interconversion kinetics of ion channels
-The generation and propagation of action potentials is mediated by voltage-gated cation channels that confer electrical conductivity to the membrane of excitable cells. In neurons for example, sodium channels modulate the membrane potential in response to electrical stimuli, which makes them important targets for toxins and therapeutic drugs. While the general behavior of isolated channels is reasonably well understood, their collective response in vivo is not. Indeed, a network of neurons is characterized by irregular action potential firing patterns that do not result from the integration of known intra- and inter-neuron signals.
+## Dynamic allostery in proteins
+Many biological processes, including enzymatic catalysis and ion permeation through ion channels, rely on allosteric regulation. This allosteric control stems from a change (binding of a drug, mutation, ...) at a site other than the active site that modifies the shape and activity of the protein. However, the nature and extent of the coupling between the active and allosteric sites is not well understood. In some cases, coupling pathways (characterized by residue networks) have been identified, suggesting that allostery occurs through conformational fluctuations. This immediately raises the question of how/whether conformational fluctuations contribute to allostery in environments where protein dynamics are constrained or limited. 
 
-### Water dynamics in mammalian bone
-Water constitutes 10% of mammalian bone tissues and is as such the third major component after hydroxyapatite crystals (70%) and collagen (20%). Besides nutrient and waste transport, water assists in conferring to bone its unique mechanical properties, making it a promising clinical marker of fracture risk. Indeed, Bound water protects collagen and makes bone less susceptible to fracture in the event of external stress while free water molecules are associated with bone strength (hydraulic stiffening). However, measuring bound and free water overlooks the dynamical interplay between these two populations and how this equilibrium changes across multiple length scales.
 
-### Interfaces in nanoelectronics
+
+## Water dynamics in mammalian bone
+Bone’s unique properties stem from the hierarchical organization of a mineral (hydroxyapatite) and an organic (collagen) phase across multiple length scales. A key player in the integration of the organic and inorganic components of bone is water, which constitutes about 10% of mammalian bone tissues and has recently been shown to surpass mineral density as a clinical marker of fracture risk. While a physical picture of the role of water in binding the collagen to the mineral phase of bone is emerging, a molecular understanding of the interactions between hydroxyapatite, collagen and water is a frontier area of research. We contribute to the molecular understanding of the organization of organic and inorganic materials in bone by investigating the effects of confinement, collagen conformation and ionic concentration on water dynamics at the interface. 
+
+
+
+## Polymer design for metal chelation
+Ranging from pollutants to rare elements for energy applications, metal ions are a prime target for extraction. One approach to this problem involves the design of polymers with high binding affinity to a given ion. Modelling can assist the design of such polymers by providing a fundamental understanding of the polymer-ion interaction at multiple time and length scales. 
 
 <div>		
 <p>Visit our group website to learn more:  <a href="{{ page.link_url }}"> {{ page.title }}</a></p>
