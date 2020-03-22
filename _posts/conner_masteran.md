@@ -9,6 +9,8 @@ nav-menu: false
 email: cmasteran1@vt.edu
 ---
 
+- graduated Salisbury University (2019) BS Chemistry
+
 ## Current Projects
 
 **Machine Learning of Electronic Pair Correlation Function**
