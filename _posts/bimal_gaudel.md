@@ -17,12 +17,11 @@ image: assets/images/people/bimal_gaudel.jpg
 ### Sites
 - [Personal](https://bimalgaudel.com.np)
 - [GitHub](https://github.com/bimalgaudel)
-- [LinkedIn](https://www.linkedin.com/in/bimalgaudel/)
-- [Facebook](https://facebook.com/bimalgaudel)
 
 ### Research Interests
-- Electronic structure theory
+- Scientific software development
 - High-performance computing
+- Electronic structure theory
 
 ### Background
 - PhD (2018 -- Present), Virginia Tech, VA.|[Group: The Valeev Group at VT](https://valeevgroup.github.io)
