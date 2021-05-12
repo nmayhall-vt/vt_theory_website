@@ -7,8 +7,9 @@ author: Mayhall Group
 image: assets/images/people/oinam_meitei.jpg
 nav-menu: false 
 slack_url: 
-email:Email: oimeitei@vt.edu 
+email:Email: oimeitei@mit.edu 
 phone: 
+location: MIT 
 ---
 
 ## Research Interests

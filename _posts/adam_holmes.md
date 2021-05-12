@@ -2,11 +2,11 @@
 layout: post
 nav-menu: false
 tags: ['person','postdoc']
-title: Ashutosh Kumar 
+title: Adam Holmes 
 author: Valeev Group
 description: Postdoctoral Associate
-image: assets/images/people/ashutosh_kumar.jpg
+image: assets/images/people/adam_holmes.jpg
 github_url: 
 linkedin_url: 
-email: akumar1@vt.edu
+email:
 ---
