@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title:  Alexandre Bazante 
 description: Postdoctoral Associate
 author: Crawford Group 

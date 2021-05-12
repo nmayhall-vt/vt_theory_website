@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Oinam Meitei 
 description: Postdoctoral Associate
 author: Mayhall Group 

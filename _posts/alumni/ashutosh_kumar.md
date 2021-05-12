@@ -1,7 +1,7 @@
 ---
 layout: post
 nav-menu: false
-tags: ['person','postdoc']
+tags: ['person','alumni']
 title: Ashutosh Kumar 
 author: Valeev Group
 description: Postdoctoral Associate
