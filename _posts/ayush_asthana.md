@@ -17,5 +17,5 @@ phone:
 
 ## Education
 - PhD: Johns Hopkins University (Advisor: Prof. Lan Cheng)
-- BS-MS: Indian Institude of Technology Kanpur (Advisors: Prof. Debashis Mukherjee
+- BS-MS: Indian Institute of Technology Kanpur (Advisors: Prof. Debashis Mukherjee
   (IACS) and Prof. Srihari Keshavamurthy (IITK))
