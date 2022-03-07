@@ -8,8 +8,9 @@ author: Mayhall Group
 image: assets/images/people/abraham_vibin.jpg
 nav-menu: false 
 email: vibin1@vt.edu
-location: [University of Michigan](https://sites.lsa.umich.edu/zgid/members/)
+location: University of Michigan
 ---
 
 ## Current Location
-University of Michigan: Postdoc in Dominika Zgid's group
+Postdoc in Dominika Zgid's group
+[University of Michigan](https://sites.lsa.umich.edu/zgid/members/)
