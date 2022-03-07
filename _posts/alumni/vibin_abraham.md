@@ -1,6 +1,7 @@
 ---
 layout: post 
-tags: ['person','grad_student']
+nav-menu: false
+tags: ['person','alumni']
 title: Vibin Abraham 
 description: Graduate Student 
 author: Mayhall Group 
@@ -8,6 +9,6 @@ image: assets/images/people/abraham_vibin.jpg
 nav-menu: false 
 slack_url: eh
 email: vibin1@vt.edu
-location: UM ([Zgid Group](https://sites.lsa.umich.edu/zgid/members/)
+location: [University of Michigan](https://sites.lsa.umich.edu/zgid/members/)
 ---
 
