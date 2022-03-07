@@ -11,3 +11,5 @@ email: vibin1@vt.edu
 location: [University of Michigan](https://sites.lsa.umich.edu/zgid/members/)
 ---
 
+## Current Location
+University of Michigan: Postdoc in Dominika Zgid's group
