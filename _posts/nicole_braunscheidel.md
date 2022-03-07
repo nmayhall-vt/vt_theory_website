@@ -8,6 +8,9 @@ nav-menu: false
 image: assets/images/people/nicole_braunscheidel.jpg
 email: nbraunsc@vt.edu
 ---
-# Silicon Defects 
-Development of highly efficient methods for modeling spin-defects in large quantum dots
+## Research Interests
+- Development of highly efficient methods for modeling spin-defects
+- Tensor product wavefunctions
 
+## Education
+- BS: Ohio Northern University 
