@@ -5,7 +5,7 @@ title: Nicole Braunscheidel
 description: Graduate Student 
 author: Mayhall Group 
 nav-menu: false 
-image: assets/images/people/nicole_braunscheidel_new.jpg
+image: assets/images/people/nicole_braunscheidel_new.jpeg
 email: nbraunsc@vt.edu
 ---
 ## Research Interests
