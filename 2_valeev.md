@@ -2,7 +2,7 @@
 layout: post
 title: The Valeev Group  
 description: null  
-image: assets/images/valeevgroup_2017_fall.jpg
+image: assets/images/valeevgroup_2020_spring.jpg
 nav-menu: true
 slack_url: eh
 github_url: https://github.com/ValeevGroup

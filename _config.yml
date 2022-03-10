@@ -15,7 +15,7 @@ phone: 540-231-5391
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 5
 
 include: ['_posts', '_people']
 
@@ -39,3 +39,5 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+theme: jekyll-theme-cayman

@@ -24,7 +24,7 @@
 				'filter 1s ease',
 				'-webkit-filter 1s ease'
 			));
-			@include padding(4em, 4em);
+			@include padding(0em, 1em);
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -34,7 +34,7 @@
 			min-height: 10em;
 			overflow: hidden;
 			position: relative;
-			width: 25%;
+			width: 20%;
 
 			.image {
 				display: none;
@@ -45,8 +45,9 @@
 				z-index: 3;
 			}
 
+
 			h3 {
-				font-size: 1.2em;
+				font-size: 1.1em;
 
 				a {
 					&:hover {
@@ -103,17 +104,17 @@
 			}
 
 			&:nth-child(4n - 1) {
-				width: 25%;
+				width: 20%;
 			}
 			&:nth-child(4n - 2) {
-				width: 25%;
+				width: 20%;
 			}
 
 			&:nth-child(6n - 5) {
 				&:before {
 					background-color: _palette(accent1);
 				}
-				width: 25%;
+				width: 20%;
 			}
 
 			&:nth-child(6n - 4) {
