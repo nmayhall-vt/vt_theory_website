@@ -14,4 +14,4 @@ email: samwise@vt.edu
 - BS (2012-2016) UNC Chapel Hill
 
 - Research Interests:
-  Reduced-scaling methods in electronic structure theory.
+  Density functional theory and its relation to some wavefunction methods.
