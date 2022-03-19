@@ -7,13 +7,14 @@ author: Valeev Group
 description: Graduate Student
 image: assets/images/people/drew_lewis.jpg
 email: drew90@vt.edu
-location: Sandia National Laboratories
+location: Working for Google, living in Roanoke
 ---
-- Graduate Student, Valeev Research Group, Virginia Tech
+- Software Engineer, Former Valeev Group Member, Virginia Tech
 
 
 - Research Interest:
-  Tensor approximations and decompositions.
+  2018: Tensor approximations and decompositions.
+  2022: Low level computer science.
 
 - Hobbies:
   Hiking, Baking, Photography, and Talking.
