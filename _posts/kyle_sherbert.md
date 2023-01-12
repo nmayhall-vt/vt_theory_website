@@ -1,13 +1,13 @@
 ---
 layout: post 
 tags: ['person','postdoc']
-title: Diksha Dhwawan 
+title: Kyle Sherbert 
 description: Postdoctoral Associate
 author: Mayhall Group 
-image: assets/images/people/diksha_dhawan.jpg
+image: assets/images/people/kyle_sherbert.jpg
 nav-menu: false 
 slack_url: 
-email:Email: ddhawan@vt.edu 
+email:Email: kyle.sherbert@vt.edu 
 phone: 
 ---
 
@@ -15,5 +15,5 @@ phone:
 - Quantum Computing algorithms for molecular simulation
 
 ## Education
-- PhD: University of Michigan (Advisor: Dominika Zgid)
-- MS: U of Hyderabad (Advisor: Durga Prasad)
+- PhD: U of North Texas (Advisor: Marco Nardelli)
+- MS: U of North Texas
