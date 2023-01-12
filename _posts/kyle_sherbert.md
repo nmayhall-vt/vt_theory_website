@@ -7,7 +7,7 @@ author: Mayhall Group
 image: assets/images/people/kyle_sherbert.jpg
 nav-menu: false 
 slack_url: 
-email:Email: kyle.sherbert@vt.edu 
+email: kyle.sherbert@vt.edu 
 phone: 
 ---
 
