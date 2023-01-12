@@ -2,7 +2,7 @@
 layout: post
 title: The Mayhall Group  
 description: Strong correlation and excited states 
-image: assets/images/mayhall_group_2019.jpg
+image: assets/images/mayhall_group_2022.jpg
 email: nmayhall@vt.edu
 phone: 540-231-3298
 googlescholar_url: https://scholar.google.com/citations?user=X4it56UAAAAJ&hl=en 
