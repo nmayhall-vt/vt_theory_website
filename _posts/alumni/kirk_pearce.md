@@ -8,6 +8,6 @@ description: Graduate Student
 image: assets/images/people/kirk_pearce.jpg
 github_url: 
 linkedin_url: 
-email: kcpearce@vt.edu
+email: kcpearce@vt.edu 
 location: Chemaxon, Boston, MA
 ---
