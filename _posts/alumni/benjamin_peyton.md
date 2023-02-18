@@ -1,7 +1,7 @@
 ---
 layout: post
 nav-menu: false
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Benjamin Peyton 
 author: Crawford Group
 description: Graduate Student
@@ -13,6 +13,7 @@ street_address: Department of Chemistry (0212)<br>Davidson Hall Room 480<br>1040
 city: Blacksburg
 State: VA
 zip_code: 24061
+location: Michigan State University
 ---
 
 - PhD Chemistry (2016 - Present), Virginia Tech, VA. <a href="http://www.crawford.chem.vt.edu/">Crawford Group</a>
