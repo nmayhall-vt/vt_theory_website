@@ -5,7 +5,7 @@ title: Harjeet Singh
 description: Graduate Student 
 author: Mayhall Group 
 nav-menu: false 
-image: assets/images/people/harjeet_singh.jpeg
+image: assets/images/people/harjeet_singh.jpg
 email: harjeetsingh@vt.edu
 ---
 ## Research Interests
