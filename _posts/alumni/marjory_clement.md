@@ -1,7 +1,7 @@
 ---
 layout: post 
 nav-menu: false 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Marjory Clement 
 author: Valeev Group 
 description: Graduate Student 
@@ -9,7 +9,7 @@ image: assets/images/people/marjory_clement.jpg
 github_url : https://github.com/mclement1
 email: mcclem@vt.edu
 ---
-- Graduate Student (2016-current), Valeev Research Group, Virginia Tech
+- Graduate Student (2016-2021), Valeev Research Group, Virginia Tech
 - BS (2012-2016), Belhaven University, Jackson, MS
 
 - Research Interests:

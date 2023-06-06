@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Harper Grimsley 
 description: Graduate Student 
 author: Mayhall Group 
@@ -8,8 +8,9 @@ nav-menu: false
 image: assets/images/people/grimsley_harper.jpg
 github_url: https://github.com/hrgrimsl 
 email: hrgrimsl@vt.edu
+location: Emory University
 ---
--Graduate Student (2018-current) Mayhall Research Group, Virginia Tech
+-Graduate Student (2018-2022) Mayhall Research Group, Virginia Tech
 
 -Researcher (2015-2018) Kilyanek Research Group, University of Arkansas
 

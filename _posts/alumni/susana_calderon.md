@@ -1,6 +1,6 @@
 ---
 layout: post 
-tags: ['person','grad_student']
+tags: ['person','alumni']
 title: Susana Calderon 
 description: Graduate Student 
 author: Crawford Group 
